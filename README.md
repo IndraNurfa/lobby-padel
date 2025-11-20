@@ -47,8 +47,8 @@ A full-stack platform for seamless padel court booking. Built with a clean archi
 
 Lobby Padel is designed to handle end-to-end padel court booking. Users can browse courts, check availability, manage bookings, and track history. Admins get a management dashboard for courts, bookings, users.
 
-<!-- ![Homepage](https://github.com/IndraNurfa/final-project-fe-IndraNurfa/blob/main/public/docs/homepage.png)
-_Homepage - Welcome to Lobby Padel_ -->
+![Homepage](./homepage.png)
+_Homepage - Welcome to Lobby Padel_ 
 
 ## Key features
 
@@ -202,8 +202,8 @@ npm run start
    ```
 
 6. Access the application:
-   - API Documentation: [http://localhost:3000/api](http://localhost:3000/api)
-   - Base URL: `http://localhost:3000`
+   - API Documentation: [http://localhost:3000/api](http://localhost:8000/api)
+   - Base URL: `http://localhost:8000`
 
 ## API endpoints
 
